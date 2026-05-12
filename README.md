@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on improving my cybersecurity skills through hands-on projects, focusing on secure application development and vulnerability analysis<br><br>🌱 I’m also learning more about advanced threat detection, penetration testing, and secure system design<br><br>💬 Ask me about cybersecurity, secure coding practices, Java/Python projects, or anything related to software development<br><br>⚡ Fun fact: I enjoy breaking down complex security problems and turning them into practical, user-friendly solutions<br>
-
+🔭 I’m currently working on improving my cybersecurity skills through hands-on projects, focusing on secure application development and vulnerability analysis<br><br>🌱 I’m also learning more about advanced threat detection, penetration testing, and secure system design<br><br>💬 Ask me about cybersecurity, secure coding practices, Java/Python projects, or anything related to software development<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/camellia-gadiri-756249234) 
